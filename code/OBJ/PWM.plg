@@ -1,0 +1,562 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+F:\BaiduYunDownload\STM32F407VET6-100P--F4系统板资料\STM32F407VET6最小系统板--资料\1，STM32F4xx标准例程\例程8 PWM输出实验\USER\PWM.uvproj
+Project File Date:  08/31/2015
+
+<h2>Output:</h2>
+Build target 'PWM'
+compiling main.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(168): error:  #5: cannot open source input file "stdint.h": No such file or directory
+compiling stm32f4xx_it.c...
+stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(168): error:  #5: cannot open source input file "stdint.h": No such file or directory
+compiling system_stm32f4xx.c...
+stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(168): error:  #5: cannot open source input file "stdint.h": No such file or directory
+"..\OBJ\PWM.axf" - 3 Errors, 3 Warning(s).
+Target not created
+Build target 'PWM'
+compiling main.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling stm32f4xx_it.c...
+stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling system_stm32f4xx.c...
+stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling led.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling pwm.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling delay.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling sys.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling usart.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling misc.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling stm32f4xx_gpio.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling stm32f4xx_usart.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling stm32f4xx_tim.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling stm32f4xx_syscfg.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+compiling stm32f4xx_rcc.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(169): error:  #5: cannot open source input file "core_cmInstr.h": No such file or directory
+"..\OBJ\PWM.axf" - 14 Errors, 14 Warning(s).
+Target not created
+Build target 'PWM'
+compiling main.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling stm32f4xx_it.c...
+stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling system_stm32f4xx.c...
+stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling led.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling pwm.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling delay.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling sys.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling usart.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling misc.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling stm32f4xx_gpio.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling stm32f4xx_usart.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling stm32f4xx_tim.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling stm32f4xx_syscfg.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+compiling stm32f4xx_rcc.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(170): error:  #5: cannot open source input file "core_cmFunc.h": No such file or directory
+"..\OBJ\PWM.axf" - 14 Errors, 14 Warning(s).
+Target not created
+Build target 'PWM'
+compiling main.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling stm32f4xx_it.c...
+stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling system_stm32f4xx.c...
+stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling led.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling pwm.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling delay.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling sys.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling usart.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling misc.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling stm32f4xx_gpio.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling stm32f4xx_usart.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling stm32f4xx_tim.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling stm32f4xx_syscfg.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+compiling stm32f4xx_rcc.c...
+..\USER\stm32f4xx.h(89): warning:  #47-D: incompatible redefinition of macro "STM32F40_41xxx"
+..\CORE\core_cm4.h(258): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(259): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(260): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(262): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(263): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(264): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(265): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(266): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(268): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(278): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(279): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(281): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(291): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(295): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(296): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(297): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(299): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(300): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(301): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(302): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(303): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(304): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(305): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(307): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(317): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(318): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(319): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(320): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(322): error:  #20: identifier "uint32_t" is undefined
+..\CORE\core_cm4.h(338): error:  #20: identifier "uint32_t" is undefined
+"..\OBJ\PWM.axf" - 420 Errors, 14 Warning(s).
+Target not created
